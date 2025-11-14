@@ -1,5 +1,4 @@
 # ece1110-project
+## Pipelined CPU that implements RISC-V like instruction set
+<img width="2687" height="952" alt="pipelinecircuit" src="https://github.com/user-attachments/assets/01c2a6dd-6a07-45bb-a911-ae6b9408948a" />
 
-# Notes:
-## Creating a library.
-[Reddit](https://www.reddit.com/r/logicgates/comments/8txvep/creating_your_own_library_in_logisim/)
